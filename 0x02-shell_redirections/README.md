@@ -3,7 +3,7 @@ a script that displays a confused smiley "(Ôo)'
 Display the content of the /etc/passwd file
 Display the content of /etc/passwd and /etc/hosts
 Display the last 10 lines of /etc/passwd
-Display the first 10 lines of /etc/passwd
+0;276;0cDisplay the first 10 lines of /etc/passwd
 Write a script that displays the third line of the file iacta.
 Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
 Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
@@ -23,3 +23,4 @@ Write a script that reverse its input.
 Write a script that displays all users and their home directories, sorted by users.
 Write a command that finds all empty files and directories in the current directory and all sub-directories.
 Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet.
